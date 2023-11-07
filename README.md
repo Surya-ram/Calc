@@ -157,7 +157,8 @@ Publish the website in the given URL.
 ```
 
 ## OUTPUT:
-![image](out1.png)
+![image](https://github.com/Surya-ram/Calc/assets/122000311/5539e838-2ef3-4319-926b-298f992523d0)
+
 
 ## RESULT:
 The program for designing a standard calculator using HTML and CSS is executed successfully.
